@@ -18,3 +18,5 @@ console.log(`Server listening on port ${PORT}`)
 if (require.main !== module) module.exports = server
 
 // Change for adding user-agent endpoint
+
+// Change for adding base64 endpoint
